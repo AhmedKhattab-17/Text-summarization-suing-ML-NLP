@@ -1,1 +1,1 @@
-# This file contains the source code and the DS. The DS is made specifically for summarizing stories and text. The file does not contain the model itself, but you can train it by running the code.
+# This file contains the source code and the DS. The DS is made specifically for summarizing stories and text and you can add or remove from DS by k.ipynb file. The file does not contain the model itself, but you can train it by running the code.
